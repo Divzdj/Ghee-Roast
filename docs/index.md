@@ -1,10 +1,10 @@
 ## Welcome to MyRecipes
 
-Today's Recipe is [Ghee Roast](https://github.com/Divzdj/Ghee-Roast/blob/gh-pages/docs/HTML/README.html)
+Today's Recipe is [Ghee Roast](README)
 
 
 ### Ghee Roast
 
-For Ingredients [Click Here](https://github.com/Divzdj/Ghee-Roast/blob/gh-pages/docs/HTML/Ingredients.html)
+For Ingredients [Click Here](Ingredients)
 
-For Method [Click Here](https://github.com/Divzdj/Ghee-Roast/blob/gh-pages/docs/HTML/Recipe.html)
+For Method [Click Here](Recipe)
