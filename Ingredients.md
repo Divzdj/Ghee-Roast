@@ -4,7 +4,7 @@ Idly Rice-1 cup
 
 White Rice-1cup
 
-Urad Dal(Uzhunnu parippu) -1/2cup
+Urad Dal-1/2cup
 
 Fenugreek seeds(methi)-1tsp
 
