@@ -10,7 +10,7 @@ Fenugreek seeds(methi)-1tsp
 
 White Poha -1/4 cup
 
-Ghee or sesame oil-
+Ghee or sesame oil
 
 Water for grinding
 
