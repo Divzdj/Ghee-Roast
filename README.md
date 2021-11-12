@@ -1,3 +1,5 @@
+[Home](index)
+
 # Ghee Roast
 
 Ghee is highly clarified butter and ghee roast is  a dosa that is cooked with ghee or is brushed with melted ghee after it is cooked.
