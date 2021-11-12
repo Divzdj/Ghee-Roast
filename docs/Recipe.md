@@ -1,3 +1,5 @@
+[Home](index)
+
 # Method
 
 Step 1: Wash  two types of  rice ,fenugreek seeds and Urad dal  and poha well and soak together in plenty of water for minimum 4 hours.
