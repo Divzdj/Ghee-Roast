@@ -1,6 +1,6 @@
 [Home](index)
 
-## Welcome to MyRecipes
+# Welcome to MyRecipes
 
 Today's Recipe is [Ghee Roast](README)
 
