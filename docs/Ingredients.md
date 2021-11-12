@@ -1,3 +1,4 @@
+[Home](index)
 # Ingredients
 
 Idly Rice-1 cup
